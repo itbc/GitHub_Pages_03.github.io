@@ -139,5 +139,5 @@ endsolid
 ```
 
 
-$ jupyter nbconvert --to html NOTEBOOK-NAME.ipynb
+jupyter nbconvert --to html NOTEBOOK-NAME.ipynb
 
