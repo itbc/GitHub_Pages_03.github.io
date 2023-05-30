@@ -1,1 +1,10 @@
 # GitHub Pages test
+
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
