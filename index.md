@@ -138,6 +138,3 @@ solid cube_corner
 endsolid
 ```
 
-
-jupyter nbconvert --to html NOTEBOOK-NAME.ipynb
-
